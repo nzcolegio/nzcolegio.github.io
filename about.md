@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Un simple blog para cumplir con la materia de tecnologia.
