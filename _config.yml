@@ -1,9 +1,8 @@
-title: Juan Diego Patiño Muñoz Blog (Para el colegio)
-description: "Para cumplir con la materia"
+title: Articulos del Curso 110?
+description: "Para cumplir con la materia, yeii"
 author:
-  name: "jdpm"
-  email: "nohay@email.?"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "nueva-zelandia-colegio"
+  email: "no-hay"
 
 baseurl: /
 
@@ -28,5 +27,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "jdpm"
+owner : "algunas personas de 11"
 year : "2022"
