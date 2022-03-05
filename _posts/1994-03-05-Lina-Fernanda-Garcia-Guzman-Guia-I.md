@@ -12,3 +12,7 @@ Es un sistema de comunicacion, ya que permite comunicarse con otros usuarios y c
 Los satélites artificiales nacieron durante la guerra fría, entre los Estados Unidos y La Unión Soviética, que pretendían ambos llegar a la luna y a su vez lanzar un satélite a la órbita espacial.
 
 Se llama "Sputnik" y fue lanzado por Rusia, entonces la Unión Soviética (URSS). Era una esfera de aluminio del tamaño de una pelota de laya -apenas 58 centímetros de diámetro- de poco más de 80 kilos, con cuatro largas y finas antenas. En su primer viaje, tardó 98 minutos en orbitar la Tierra.
+
+[Mapa conceptual](https://lucid.app/lucidchart/9673431d-6812-4943-8c6b-731ff0acf242/edit?invitationId=inv_b9fe1a6d-f06b-42e9-8395-c5376bbcea49)
+---
+Lina Fernanda Garcia Guzman 1102
