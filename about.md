@@ -7,4 +7,5 @@ Un simple blog para cumplir con la materia de tecnologia (Entre estudiantes de 1
 
 ## Orden de los estudiantes:
 Debido a que seremos varios estudiantes (o eso creo) debemos estar organizados en este caso será por años, donde:
-* 2022 - Juan Diego Patiño Muñoz - 1011
+* 1998 - Juan Diego Patiño Muñoz - 1101
+* 1994 - Lina Fernanda Garcia Guzman - 1102
