@@ -2,17 +2,28 @@
 title: Guia I
 published: true
 ---
+# Concepto de Red
+Una red de computadoras, también llamada red de ordenadores o red informática, es un conjunto de equipos conectados por medio de cables, señales, ondas o cualquier otro método de transporte de datos, que comparten información (archivos), recursos (CD-ROM, impresoras, etc.)
 
-## Que es una red?
-Una red es un conjunto de dispositivos fisicos "hardware" y de programas "software", mediante en el cual podemos comunicar computadoras para compartir recursos (discos, impresoras,programas,etc.)
-a cada una de las computadoras conectadas a la red se le denomina un nodo.
-## Que es una red de computadoras?
-Es un sistema de comunicacion, ya que permite comunicarse con otros usuarios y compartir archivos es decir que conecta a varias unidades y le permite intercambiar informacion. se dice que dos computadoras estan interconectadas, si estos son capaces de intercambiar informacion, la conexion  no necesita hacerse a traves de cables, puede hacerse mediante el uso de laser, microondas y sistemas de comunicacion. 
-## Por que nacieron los satelites?
-Los satélites artificiales nacieron durante la guerra fría, entre los Estados Unidos y La Unión Soviética, que pretendían ambos llegar a la luna y a su vez lanzar un satélite a la órbita espacial.
+# ¿Qué es una Red Informatica?
+Una red informática es un conjunto de ordenadores y otros dispositivos conectados entre si para intercambiar información (impresoras, archivos, etc.) y compartir recursos. nos permite utilizar una única conexión a internet en varios ordenadores, compartir impresora y otros periféricos, enviar y recibir mensajes y pasar archivos a otros ordenadores sin necesidad de un lápiz de memoria, cd u otro elemento.
+Incluso podemos ejecutar programas instalados en otros ordenadores de la red.
+Hoy en día sería muy difícil imaginar nuestro día a día y el mundo laboral actual sin la existencia de redes informáticas.
 
-Se llama "Sputnik" y fue lanzado por Rusia, entonces la Unión Soviética (URSS). Era una esfera de aluminio del tamaño de una pelota de laya -apenas 58 centímetros de diámetro- de poco más de 80 kilos, con cuatro largas y finas antenas. En su primer viaje, tardó 98 minutos en orbitar la Tierra.
+# Ventajas de las Redes Informáticas
+Las principales ventajas de las redes son, por tanto:
 
-[Mapa conceptual](https://lucid.app/lucidchart/9673431d-6812-4943-8c6b-731ff0acf242/edit?invitationId=inv_b9fe1a6d-f06b-42e9-8395-c5376bbcea49)
+* Compartir datos
+* El intercambio de recursos
+* Gestión centralizada de programas y datos
+* Almacenamiento y respaldo de datos centralizados
+* Compartir la potencia informática y la capacidad de almacenamiento
+* Administración simple de permisos y responsabilidades
+
+# Tipos de Redes Informáticas
+Las redes informáticas o de ordenadores se pueden clasificar de dos formas o tipos diferentes:
+- Según su tamaño en redes de área local llamadas LAN (pequeñas), redes de área metropolitana llamadas MAN (formadas por varias LAN) y redes de área amplia llamadas WAN (por ejemplo Internet).
+
+[Mapa conceptual](https://lucid.app/lucidchart/9673431d-6812-4943-8c6b-731ff0acf242/edit?viewport_loc=-520%2C-49%2C2926%2C1391%2C0_0&invitationId=inv_b9fe1a6d-f06b-42e9-8395-c5376bbcea49)
 ---
 Lina Fernanda Garcia Guzman 1102
