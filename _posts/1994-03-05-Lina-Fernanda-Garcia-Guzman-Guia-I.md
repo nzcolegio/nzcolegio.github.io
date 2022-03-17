@@ -13,15 +13,15 @@ Es bastante corriente confundir tecnología con ciencia aplica-da, definiendo la
 
 En primer lugar, la motivación, actividad y productos de la ciencia y de la tecnología son diferentes. La motivación de la ciencia responde al deseo de las personas de conocer y comprender racionalmente el mundo que nos rodea y los fenómenos con él relacionados, la actividad es la investigación y el producto resultante es el conocimiento científico.
 
-##Ciencia
-Motivación	Ansia de conocimientos.
-Actividad	Investigación científica.
-Producto	Conocimientos científicos.
+## Ciencia
+* Motivación: Ansia de conocimientos.
+* Actividad: Investigación científica.
+* Producto:	Conocimientos científicos.
 
 ## Funciones no técnicas
 Después de un tiempo, las características novedosas de los productos tecnológicos son copiadas por otras marcas y dejan de ser un buen argumento de venta. Toman entonces gran importancia las creencias del consumidor sobre otras características independientes de su función principal, como las estéticas y simbólicas.
 
-##Función estética
+## Función estética
 Más allá de la indispensable adecuación entre forma y función técnica, se busca la belleza a través de las formas, colores y texturas. Entre dos productos de iguales prestaciones técnicas y precios, cualquier usuario elegirá seguramente al que encuentre más bello. A veces, caso de las prendas de vestir, la belleza puede primar sobre las consideraciones prácticas. Frecuentemente compramos ropa bonita aunque sepamos que sus ocultos detalles de confección no son óptimos, o que su duración será breve debido a los materiales usados. Las ropas son el rubro tecnológico de máxima venta en el planeta porque son la cara que mostramos a las demás personas y condicionan la manera en que nos relacionamos con ellas.
 
 ## Función simbólica
