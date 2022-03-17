@@ -34,7 +34,8 @@ red básica de comunicación entre los humanos
 Tras numerosos estudios de la atmósfera terrestre con globos que alcanzaban los 30 Km de altitud (un avión comercial vuela a unos 12 Km como máximo) y pruebas con algunos cohetes, un 4 de Octubre de 1957 la URSS lanzaba al espacio el primer satélite del mundo: ElSputnik 1. Tras posicionarse correctamente en órbita, el satélite emitió unos pitidos por radio que demostraron el éxito de la tecnología. Desde este momento, el mundo comenzó a cambiar por completo.
 
 La recepción de esa señal de radio en la tierra supuso un impacto en la población mundial. Desde entonces se comenzó a creer en la tecnología satelital e invertir a marchas forzadas para multiples usos, contemplando a día de hoy desde el militar o el meteorológico, pasando por el de reconocimiento hasta llegar a los satélites de comunicaciones, que son los que nos afectan directamente televisivamente hablando.
-![Sputnik 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elespanol.com%2Fel-cultural%2Fciencia%2Fentre_2_aguas%2F20171006%2Fsputnik-satelite-pionero%2F252226170_0.html&psig=AOvVaw0ne8-SfymchVPkX6RfghsC&ust=1647577650832000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLjjp5inzPYCFQAAAAAdAAAAABAD){width=550 height=550}
+
+![Ilustracion](https://proyectoidis.org/wp-content/uploads/1957/10/images-topaz.jpeg){width=612 height=612}
 
 ## Importancia de las redes
 Las redes son demasiado importantes actualmente, lo fueron y lo seran debido a que la comunicacion ha sido una de las cosas más importantes para el humano en toda su
@@ -44,7 +45,9 @@ calculos para que el humano pueda seguir avanzado como individuo.
 Los satelites nos brindan la capacidad de tener informacion quiza en cualquier parte del mundo, ya que las ondas que envia a las antenas permiten a nuestros dispositivos
 conectarese y adquirir esa magia llamada "internet"
 
-![Ilustracion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microsiervos.com%2Farchivo%2Fespacio%2Fgraficoresumen-satelites-orbita-alrededor-tierra.html&psig=AOvVaw13nni4etk_nDcnPHFcLQKg&ust=1647578786016000&source=images&cd=vfe&ved=2ahUKEwjlm8Gzq8z2AhV8cjABHWbcB0MQjRx6BAgAEAk){width=550 height=550}
+![img](http://www.revistadeacuerdo.org/wp-content/uploads/2018/02/senales.png)
+
+
 
 [Mapa conceptual](https://lucid.app/lucidchart/7386e6cd-2875-4134-8ab2-f2bed179c133/edit?invitationId=inv_7249779f-d99b-4a7b-951e-d86b01e7e398)
 ---
